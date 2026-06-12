@@ -22,4 +22,14 @@
     - Yolo
     - Dlib
     - Tescreet OCR
+
+
+## Installation
+# Activate the virtual environment
+$ source .venv/bin/activate
+# Install the requirements
+$ pip install -r requirements.txt
+# Run the server
+$ python manage.py runserver
+
     
